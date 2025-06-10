@@ -22,4 +22,11 @@ An additional script for making the same analysis with filtered data (without ou
 This Python script can be used in the Python console in 3D Slicer. 
 It sets all values more than 0 to 1, making it binary.
 
+## DSCcalc.py
+Code that calculates the DSC between two ROIs. Case name, MR sequence, and ROIs needs to be specified. 
+
+## HD95calc.py
+Code that calculates the HD95 between two ROIs. Case name, MR sequence, and ROIS needs to be specified.
+Distance is given in cm. 
+
 
